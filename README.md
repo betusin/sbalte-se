@@ -1,5 +1,7 @@
 # sbaltese
 
+You can access the real app on website https://sbaltese.cz/
+
 ## Project setup
 ```
 npm install
