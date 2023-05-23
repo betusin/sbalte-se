@@ -1,6 +1,8 @@
-# sbaltese
+# Sbalte se!
 
-You can access the real app on website https://sbaltese.cz/
+Web application - simple digital holiday packing list to never forget what you need. Winner of Czechitas Hackathon 2021. Available on https://sbaltese.cz/ .
+
+Implemented in Vue.js and data stored in Firebase.
 
 ## Project setup
 ```
