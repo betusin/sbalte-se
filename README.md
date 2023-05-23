@@ -1,8 +1,12 @@
 # Sbalte se!
 
-Web application - simple digital holiday packing list to never forget what you need. Winner of Czechitas Hackathon 2021. Available on https://sbaltese.cz/ .
+Web application - simple digital holiday packing list to never forget what you need. Winner of [Czechitas Hackathon 2021](https://www.czechitas.cz/blog/prvni-czechitas-hackathon-tohoto-roku). Available on https://sbaltese.cz/ .
 
 Implemented in Vue.js and data stored in Firebase.
+
+## Database setup
+
+To be able to run this project locally, you need to add database configuration into `firebaseConfig` file from your own firebase app. The file was not published to prevent data leak.
 
 ## Project setup
 ```
